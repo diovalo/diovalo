@@ -4,7 +4,7 @@
 
 I am a software engineer specializing in scalable backend architecture and data-intensive applications. With a background in Industrial IoT and an ongoing Master's in Web and Data Science at Universität Koblenz, I love bridging the gap between complex data processing, intelligent machine learning models, and clean, responsive user interfaces. I am passionate about Test-Driven Development, scalable system design, and leveraging AI-assisted workflows to build robust software.
 
-📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/dhawal-kushwaha/) | dhawalkushwaha121@gmail.com
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/dhawal-kushwaha-67b2241ba/) | dhawalkushwaha121@gmail.com
 
 ---
 
