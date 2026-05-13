@@ -43,14 +43,3 @@ I am a software engineer specializing in scalable backend architecture and data-
 * **Modern Frontends:** Bridging complex APIs and data streams with responsive, user-centric interfaces.
 * **Data Pipelines:** Wrangling and analyzing complex datasets utilizing Python, Pandas, and NumPy.
 * **Automated Workflows:** Containerizing applications and maintaining strict CI/CD deployment pipelines.
-
----
-
-### 📊 GitHub Stats
-
-*(Note: Don't forget to replace `YOUR_GITHUB_USERNAME` in the links below!)*
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
