@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm Dhawal Kushwaha
 
-**Full-Stack Software Engineer | M.Sc. Web & Data Science**
+**Backend Architect | Machine Learning Engineer | Data Analyst | Full-Stack**
 
-I am a software engineer specializing in scalable backend architecture and data-intensive applications. With a background in Industrial IoT and an ongoing Master's in Web and Data Science at Universität Koblenz, I love bridging the gap between complex data processing, intelligent machine learning models, and clean, responsive user interfaces. I am passionate about Test-Driven Development, scalable system design, and leveraging AI-assisted workflows to build robust software.
+I am a versatile engineer who thrives across the entire data and application lifecycle. With a foundation in Industrial IoT and an ongoing M.Sc. in Web and Data Science, I adapt to the specific needs of the systems I build. 
 
+Whether I am wearing the hat of a **Backend Developer** to scale microservices to 1M+ users, a **Machine Learning Engineer** to build predictive recommendation engines, or a **Data Analyst** to wrangle complex time-series data, I am passionate about taking full ownership of the product from raw data to the final user interface.
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/dhawal-kushwaha-67b2241ba/) | dhawalkushwaha121@gmail.com
 
 ---
